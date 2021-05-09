@@ -21,7 +21,7 @@ FN + F12 | Launch Calculator
 
 ## For Users
 
-Download the latest executable from [Github Releases](/releases/latest) page.
+Download the latest executable from [Github Releases](https://github.com/gmikhail/HotkeyManager/releases) page.
 
 ## For Developers
 
