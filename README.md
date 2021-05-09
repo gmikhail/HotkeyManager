@@ -29,9 +29,9 @@ Install packages required for building:
 
 `pip install pyinstaller pyinstaller-versionfile pynput pystray`
 
-Update version in file `metadata/version.txt`
+*Optional:* Update version in file `metadata/version.txt`
 
-Generate version metadata file:
+*Optional:* Generate version metadata file:
 
 `create-version-file metadata/metadata.yml --outfile metadata/version_metadata.txt`
 
