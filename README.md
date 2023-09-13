@@ -1,6 +1,6 @@
 # Hotkey Manager
 
-Utility that provides additional functionality for keyboard without function keys.
+Utility that provides additional functionality for keyboards without multimedia keys.
 
 ## Hotkeys
 
